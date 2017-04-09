@@ -1,1 +1,17 @@
 # hello-haskell
+## Install
+Required [stack](https://github.com/commercialhaskell/stack)
+
+```sh
+git clone https://github.com/ahuglajbclajep/hello-haskell.git
+cd hello-haskell
+```
+
+## Build & Run
+```sh
+stack build
+stack exec hello-haskell-exe
+```
+
+## Licence
+[BSD-3.0](LICENSE)
