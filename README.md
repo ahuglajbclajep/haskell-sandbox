@@ -14,4 +14,4 @@ stack exec hello-haskell-exe
 ```
 
 ## Licence
-[BSD-3.0](LICENSE)
+[BSD-3-clause](LICENSE)
