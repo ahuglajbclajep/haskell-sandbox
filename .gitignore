@@ -1,2 +1,6 @@
-.stack-work/
-.idea/
+# Stack
+.stack-work
+
+# IDEA
+.idea
+*.iml
