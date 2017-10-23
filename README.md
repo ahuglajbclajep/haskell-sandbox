@@ -1,17 +1,18 @@
 # haskell-sandbox
-## Install
-Required [stack](https://github.com/commercialhaskell/stack)
+## Usage
+Required [stack](https://github.com/commercialhaskell/stack).
 
-```sh
-git clone https://github.com/ahuglajbclajep/haskell-sandbox.git
-cd haskell-sandbox
-```
-
-## Build & Run
+### Hello, world!
 ```sh
 stack build
 stack exec hello-haskell
 ```
 
+### Other modules
+e.g.
+```sh
+stack ghci src/Greeting.hs
+```
+
 ## License
-[BSD-3-clause](LICENSE)
+[BSD 3-clause](LICENSE)
