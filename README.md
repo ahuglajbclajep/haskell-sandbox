@@ -10,7 +10,7 @@ cd hello-haskell
 ## Build & Run
 ```sh
 stack build
-stack exec hello-haskell-exe
+stack exec hello-haskell
 ```
 
 ## License

@@ -1,6 +1,4 @@
-module Main where
-
-import Lib
+import Greeting
 
 main :: IO ()
-main = someFunc
+main = hello
