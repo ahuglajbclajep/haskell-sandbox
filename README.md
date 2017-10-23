@@ -1,10 +1,10 @@
-# hello-haskell
+# haskell-sandbox
 ## Install
 Required [stack](https://github.com/commercialhaskell/stack)
 
 ```sh
-git clone https://github.com/ahuglajbclajep/hello-haskell.git
-cd hello-haskell
+git clone https://github.com/ahuglajbclajep/haskell-sandbox.git
+cd haskell-sandbox
 ```
 
 ## Build & Run
